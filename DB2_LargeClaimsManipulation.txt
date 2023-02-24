@@ -1,4 +1,4 @@
-Sub Client2LargeClaims()
+Sub DB2_LargeClaims()
 
 Dim LastRow As Integer
 Dim yyyymm(1 To 12) As String
