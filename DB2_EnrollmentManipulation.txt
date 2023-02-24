@@ -1,4 +1,4 @@
-Sub Client2EnrollmentManipulation()
+Sub DB2_EnrollmentManipulation()
 'This macro manipulates a specific worksheet into a format that makes the copy/paste process (into another workbook) easier.
 
 'declare variables
