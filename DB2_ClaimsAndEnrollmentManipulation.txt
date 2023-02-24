@@ -1,4 +1,4 @@
-Sub HPC()
+Sub DB2_Claims()
 'Modifies the report from carrier, this macro alters the original file, eventually outputting
 'a list of claims per type per month, and claimants who exceed a specifed threshold, to be entered by the user
 'on the first worksheet in cell B1
