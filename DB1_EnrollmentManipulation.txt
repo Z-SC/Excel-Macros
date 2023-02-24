@@ -1,4 +1,4 @@
-Sub Client1EnrollmentCount()
+Sub DB1_EnrollmentCount()
 'This macro manipulates a specific worksheet into a format that makes the copy/paste process (into another workbook) easier.
 
 Dim sht As Worksheet
