@@ -1,5 +1,5 @@
-Sub Client3EnrollmentManipulation()
-' this is for cigna pro claims clientes, you'll use this with the enrollment sheet they send
+Sub DB4_EnrollmentManipulation()
+
 Dim headerRow As Integer
 Dim LastRow As Integer
 Dim deleteRows As New Collection
