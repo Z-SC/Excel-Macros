@@ -1,4 +1,4 @@
-Sub Client_Database_Enrollment()
+Sub DB3_Enrollment()
 Dim endRow As Integer
 Dim endCol As Integer
 Dim sourceRange As Range
