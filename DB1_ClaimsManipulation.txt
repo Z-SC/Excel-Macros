@@ -1,4 +1,4 @@
-Sub Client1ClaimsManipulation()
+Sub DB1_ClaimsManipulation()
 'This macro manipulates a specific worksheet into a format that makes the copy/paste process (into another workbook) easier.
 
 'Prelimanary work, ensuring the worksheet is formatted as needed, and preventing pop-ups when deleting sheets
