@@ -1,5 +1,5 @@
-Sub Client_Claims_Database()
-'This macro manipulates a specific worksheet into a format that makes the copy/paste process (into another workbook) easier.
+Sub Claims_Database()
+'This macro manipulates data from a specific worksheet into a format that makes the copy/paste process (into another workbook) easier.
 
 'Prevents double running
 If Workbooks("BulkClientClaims").Worksheets.count < 2 Then
